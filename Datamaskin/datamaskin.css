@@ -1,0 +1,11 @@
+article {
+    background-color: aliceblue;
+}
+
+article > h1 {
+color: paleturquoise;
+}
+
+article h1 {
+    color: darkseagreen;
+}
